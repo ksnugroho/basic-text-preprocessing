@@ -1,4 +1,4 @@
-# basic-text-preprocessing
+# Python Basic Text-Preprocessing
 Text Preprocessing Dasar dengan Python
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ksnugroho/basic-text-preprocessing/master?filepath=text-preprocessing.ipynb)
@@ -9,5 +9,5 @@ Text Preprocessing Dasar dengan Python
 3. Matplotlib
 
 
-## Penulis
-Kuncahyo Setyo Nugroho
+## Authors
+Kuncahyo Setyo Nugroho,S.Kom
