@@ -5,7 +5,7 @@ Pada **Natural Language Processing (NLP)**, informasi yang akan digali berisi da
 
 Kode ini executable dan vieawable tersedia di **Jupyter Notebook**.
 
-[![Python 3.6](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ksnugroho/basic-text-preprocessing/master?filepath=text-preprocessing.ipynb)
 [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/ksnugroho/basic-text-preprocessing/blob/master/text-preprocessing.ipynb)
 
