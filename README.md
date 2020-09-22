@@ -20,5 +20,5 @@ Kode pada repositori ini menggunakan beberapa library Python untuk melakukan **t
 Penjelasan sederhana dari setiap tahapan **text-preprocessing** pada repositori ini saya tulis pada artikel [disini](https://medium.com/@ksnugroho/dasar-text-preprocessing-dengan-python-a4fa52608ffe).
 
 ## Penulis
-Kuncahyo Setyo Nugroho, S.Kom.  
+Kuncahyo Setyo Nugroho  
 ✉️ ksnugroho26@gmail.com
